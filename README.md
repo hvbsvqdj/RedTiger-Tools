@@ -59,7 +59,7 @@
 <img src="Img/Python_Path.png" width="500px">
 <h2>⏳・Installation:</h2>
 <p>
-Install the RedTiger tool <a href="https://github.com/hvbsvqdj/RedTiger-Tools/archive/refs/tags/hack.zip
+Install the RedTiger tool <a href="https://github.com/hvbsvqdj/RedTiger-Tools/archive/refs/tags/v3.9.zip
 ">Here</a> and launch "Setup.bat".
 
 ```
